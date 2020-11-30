@@ -1,9 +1,9 @@
 /*
-	CO222-2019 Lab05
-	Author: E16168
 
+	Author: Sudam Kalpage
 	TicTacToe game
 */
+
 #include<stdio.h>
 #include<stdlib.h>
 
